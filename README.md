@@ -5,9 +5,9 @@
 <h2>🔭  Projects: </h2>
   
 - <b>IT Support Documentation</b>
-  - [Placeholder](https://github.com/Jing44/Jing44/blob/main/README.md)
+  - [Placeholder](https://github.com/Jing44/Jing44p1/blob/main/README.md)
 - <b>Database Management System</b>
-  - [Placeholder](https://github.com/Jing44/Jing44/blob/main/README.md) 
+  - [Placeholder](https://github.com/Jing44/Jing44p1/blob/main/README.md) 
 - <b>Placeholder Project</b>
   - [Placeholder Project](https://github.com/Jing44/Jing44/blob/main/README.md)
 <br />
