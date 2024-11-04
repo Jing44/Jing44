@@ -14,7 +14,7 @@
 <h2> 📫 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://github.com/user-attachments/assets/5bdbf856-798e-402b-86ae-35255c692232" />][youtube] bbjinni@gmail.com
+<img align="left" width="22px" src="https://github.com/user-attachments/assets/5bdbf856-798e-402b-86ae-35255c692232" /> bbjinni@gmail.com
 
 
 <!---
